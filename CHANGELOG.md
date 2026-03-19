@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6
+
+- Fix test import path (dist/index.mjs → dist/index.js)
+
 ## 0.1.5
 
 - Add Development section to README
