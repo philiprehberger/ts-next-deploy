@@ -1,8 +1,8 @@
 # @philiprehberger/next-deploy
 
-[![CI](https://github.com/philiprehberger/next-deploy/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/next-deploy/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-next-deploy/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-next-deploy/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/next-deploy.svg)](https://www.npmjs.com/package/@philiprehberger/next-deploy)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/next-deploy)](https://github.com/philiprehberger/next-deploy/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-next-deploy)](https://github.com/philiprehberger/ts-next-deploy/commits/main)
 
 Release-based SSH deployment for Next.js apps with symlinks, dependency caching, and PM2 management
 
@@ -104,11 +104,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/next-deploy)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-next-deploy)
 
-🐛 [Report issues](https://github.com/philiprehberger/next-deploy/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-next-deploy/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/next-deploy/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-next-deploy/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
